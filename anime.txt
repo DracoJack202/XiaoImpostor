@@ -1,0 +1,310 @@
+Goku
+Vegeta
+Gohan
+Piccolo
+Frieza
+Bulma
+Trunks
+Krillin
+Majin Buu
+Cell
+Naruto Uzumaki
+Sasuke Uchiha
+Sakura Haruno
+Kakashi Hatake
+Itachi Uchiha
+Jiraiya
+Gaara
+Hinata Hyuga
+Shikamaru Nara
+Orochimaru
+Monkey D. Luffy
+Roronoa Zoro
+Nami
+Sanji
+Usopp
+Tony Tony Chopper
+Nico Robin
+Portgas D. Ace
+Trafalgar Law
+Shanks
+Ichigo Kurosaki
+Rukia Kuchiki
+Sosuke Aizen
+Byakuya Kuchiki
+Eren Yeager
+Mikasa Ackerman
+Armin Arlert
+Levi Ackerman
+Erwin Smith
+Izuku Midoriya
+Katsuki Bakugo
+Shoto Todoroki
+All Might
+Ochaco Uraraka
+Tanjiro Kamado
+Nezuko Kamado
+Zenitsu Agatsuma
+Inosuke Hashibira
+Kyojuro Rengoku
+Yuji Itadori
+Megumi Fushiguro
+Nobara Kugisaki
+Satoru Gojo
+Ryomen Sukuna
+Light Yagami
+L Lawliet
+Ryuk
+Misa Amane
+Edward Elric
+Alphonse Elric
+Roy Mustang
+Winry Rockbell
+Gon Freecss
+Killua Zoldyck
+Kurapika
+Hisoka Morow
+Chrollo Lucilfer
+Jotaro Kujo
+Dio Brando
+Joseph Joestar
+Giorno Giovanna
+Saitama
+Genos
+Tatsumaki
+Garou
+Usagi Tsukino
+Shinji Ikari
+Asuka Langley
+Rei Ayanami
+Kirito
+Asuna Yuuki
+Ken Kaneki
+Touka Kirishima
+Natsu Dragneel
+Erza Scarlet
+Gintoki Sakata
+Kagura
+Denji
+Makima
+Power (CSM)
+Loid Forger
+Yor Forger
+Anya Forger
+Lelouch vi Britannia
+Rintaro Okabe
+Kurisu Makise
+Spike Spiegel
+Faye Valentine
+Kenshin Himura
+Inuyasha
+Muten Roshi (Dragon Ball)
+Yamcha (Dragon Ball)
+Tien Shinhan (Dragon Ball)
+Androide 18 (Dragon Ball)
+Androide 17 (Dragon Ball)
+Broly (Dragon Ball)
+Beerus (Dragon Ball)
+Whis (Dragon Ball)
+Jiren (Dragon Ball)
+Bardock (Dragon Ball)
+Neji Hyuga (Naruto)
+Rock Lee (Naruto)
+Might Guy (Naruto)
+Tsunade (Naruto)
+Minato Namikaze (Naruto)
+Kushina Uzumaki (Naruto)
+Obito Uchiha (Naruto)
+Madara Uchiha (Naruto)
+Pain (Naruto)
+Konan (Naruto)
+Kiba Inuzuka (Naruto)
+Shino Aburame (Naruto)
+Choji Akimichi (Naruto)
+Ino Yamanaka (Naruto)
+Temari (Naruto)
+Kankuro (Naruto)
+Hashirama Senju (Naruto)
+Tobirama Senju (Naruto)
+Boruto Uzumaki (Boruto)
+Sarada Uchiha (Boruto)
+Jinbe (One Piece)
+Franky (One Piece)
+Brook (One Piece)
+Buggy (One Piece)
+Crocodile (One Piece)
+Donquixote Doflamingo (One Piece)
+Boa Hancock (One Piece)
+Dracule Mihawk (One Piece)
+Bartholomew Kuma (One Piece)
+Sabo (One Piece)
+Monkey D. Garp (One Piece)
+Silvers Rayleigh (One Piece)
+Edward Newgate / Barbablanca (One Piece)
+Marco (One Piece)
+Marshall D. Teach / Barbanegra (One Piece)
+Akainu (One Piece)
+Aokiji (One Piece)
+Kizaru (One Piece)
+Fujitora (One Piece)
+Smoker (One Piece)
+Uryu Ishida (Bleach)
+Orihime Inoue (Bleach)
+Yasutora Sado / Chad (Bleach)
+Kisuke Urahara (Bleach)
+Yoruichi Shihoin (Bleach)
+Kenpachi Zaraki (Bleach)
+Toshiro Hitsugaya (Bleach)
+Renji Abarai (Bleach)
+Grimmjow Jaegerjaquez (Bleach)
+Ulquiorra Cifer (Bleach)
+Tenya Iida (My Hero Academia)
+Tsuyu Asui (My Hero Academia)
+Eijiro Kirishima (My Hero Academia)
+Momo Yaoyorozu (My Hero Academia)
+Kyoka Jiro (My Hero Academia)
+Shota Aizawa (My Hero Academia)
+Endeavor (My Hero Academia)
+Hawks (My Hero Academia)
+Tomura Shigaraki (My Hero Academia)
+Dabi (My Hero Academia)
+Tengen Uzui (Demon Slayer)
+Mitsuri Kanroji (Demon Slayer)
+Obanai Iguro (Demon Slayer)
+Sanemi Shinazugawa (Demon Slayer)
+Gyomei Himejima (Demon Slayer)
+Muichiro Tokito (Demon Slayer)
+Shinobu Kocho (Demon Slayer)
+Giyu Tomioka (Demon Slayer)
+Muzan Kibutsuji (Demon Slayer)
+Akaza (Demon Slayer)
+Maki Zenin (Jujutsu Kaisen)
+Toge Inumaki (Jujutsu Kaisen)
+Panda (Jujutsu Kaisen)
+Kento Nanami (Jujutsu Kaisen)
+Aoi Todo (Jujutsu Kaisen)
+Mahito (Jujutsu Kaisen)
+Jogo (Jujutsu Kaisen)
+Hanami (Jujutsu Kaisen)
+Toji Fushiguro (Jujutsu Kaisen)
+Yuta Okkotsu (Jujutsu Kaisen)
+Hange Zoe (Attack on Titan)
+Jean Kirstein (Attack on Titan)
+Sasha Blouse (Attack on Titan)
+Connie Springer (Attack on Titan)
+Historia Reiss (Attack on Titan)
+Ymir (Attack on Titan)
+Reiner Braun (Attack on Titan)
+Bertholdt Hoover (Attack on Titan)
+Annie Leonhart (Attack on Titan)
+Zeke Yeager (Attack on Titan)
+Maes Hughes (Fullmetal Alchemist)
+Riza Hawkeye (Fullmetal Alchemist)
+Alex Louis Armstrong (Fullmetal Alchemist)
+Scar (Fullmetal Alchemist)
+King Bradley (Fullmetal Alchemist)
+Envy (Fullmetal Alchemist)
+Lust (Fullmetal Alchemist)
+Greed (Fullmetal Alchemist)
+Ling Yao (Fullmetal Alchemist)
+Lan Fan (Fullmetal Alchemist)
+Leorio Paradinight (Hunter x Hunter)
+Meruem (Hunter x Hunter)
+Neferpitou (Hunter x Hunter)
+Shaiapouf (Hunter x Hunter)
+Menthuthuyoupi (Hunter x Hunter)
+Biscuit Krueger (Hunter x Hunter)
+Kite (Hunter x Hunter)
+Ging Freecss (Hunter x Hunter)
+Illumi Zoldyck (Hunter x Hunter)
+Silva Zoldyck (Hunter x Hunter)
+Jonathan Joestar (JoJo's Bizarre Adventure)
+Josuke Higashikata (JoJo's Bizarre Adventure)
+Jolyne Cujoh (JoJo's Bizarre Adventure)
+Johnny Joestar (JoJo's Bizarre Adventure)
+Yoshikage Kira (JoJo's Bizarre Adventure)
+Diavolo (JoJo's Bizarre Adventure)
+Enrico Pucci (JoJo's Bizarre Adventure)
+Funny Valentine (JoJo's Bizarre Adventure)
+Rohan Kishibe (JoJo's Bizarre Adventure)
+Bruno Bucciarati (JoJo's Bizarre Adventure)
+Bang (One Punch Man)
+King (One Punch Man)
+Fubuki (One Punch Man)
+Zombieman (One Punch Man)
+Metal Bat (One Punch Man)
+Suiryu (One Punch Man)
+Boros (One Punch Man)
+Speed-o'-Sound Sonic (One Punch Man)
+Mumen Rider (One Punch Man)
+Puri-Puri Prisoner (One Punch Man)
+Aki Hayakawa (Chainsaw Man)
+Himeno (Chainsaw Man)
+Kobeni Higashiyama (Chainsaw Man)
+Kishibe (Chainsaw Man)
+Reze (Chainsaw Man)
+Quanxi (Chainsaw Man)
+Pochita (Chainsaw Man)
+Angel Devil (Chainsaw Man)
+Beam (Chainsaw Man)
+Nayuta (Chainsaw Man)
+Shoyo Hinata (Haikyuu!!)
+Tobio Kageyama (Haikyuu!!)
+Kei Tsukishima (Haikyuu!!)
+Tadashi Yamaguchi (Haikyuu!!)
+Daichi Sawamura (Haikyuu!!)
+Koshi Sugawara (Haikyuu!!)
+Asahi Azumane (Haikyuu!!)
+Yu Nishinoya (Haikyuu!!)
+Ryunosuke Tanaka (Haikyuu!!)
+Toru Oikawa (Haikyuu!!)
+Gray Fullbuster (Fairy Tail)
+Lucy Heartfilia (Fairy Tail)
+Happy (Fairy Tail)
+Wendy Marvell (Fairy Tail)
+Gajeel Redfox (Fairy Tail)
+Juvia Lockser (Fairy Tail)
+Laxus Dreyar (Fairy Tail)
+Mirajane Strauss (Fairy Tail)
+Mavis Vermillion (Fairy Tail)
+Zeref Dragneel (Fairy Tail)
+Jessie (Pokémon)
+James (Pokémon)
+Meowth (Pokémon)
+Misty (Pokémon)
+Brock (Pokémon)
+Yugi Muto (Yu-Gi-Oh!)
+Seto Kaiba (Yu-Gi-Oh!)
+Joey Wheeler (Yu-Gi-Oh!)
+Maximillion Pegasus (Yu-Gi-Oh!)
+Marik Ishtar (Yu-Gi-Oh!)
+Meliodas (Nanatsu no Taizai)
+Elizabeth Liones (Nanatsu no Taizai)
+Hawk (Nanatsu no Taizai)
+Ban (Nanatsu no Taizai)
+King (Nanatsu no Taizai)
+Diane (Nanatsu no Taizai)
+Gowther (Nanatsu no Taizai)
+Merlin (Nanatsu no Taizai)
+Escanor (Nanatsu no Taizai)
+Zeldris (Nanatsu no Taizai)
+Senku Ishigami (Dr. Stone)
+Taiju Oki (Dr. Stone)
+Asta (Black Clover)
+Yuno (Black Clover)
+Yami Sukehiro (Black Clover)
+Shigeo Kageyama / Mob (Mob Psycho 100)
+Arataka Reigen (Mob Psycho 100)
+Emma (The Promised Neverland)
+Norman (The Promised Neverland)
+Ray (The Promised Neverland)
+Thorfinn (Vinland Saga)
+Askeladd (Vinland Saga)
+Taiga Kagami (Kuroko no Basket)
+Tetsuya Kuroko (Kuroko no Basket)
+C.C. (Code Geass)
+Suzaku Kururugi (Code Geass)
+Mayuri Shiina (Steins;Gate)
+Bond Forger (Spy x Family)
+Damian Desmond (Spy x Family)
+Jet Black (Cowboy Bebop)

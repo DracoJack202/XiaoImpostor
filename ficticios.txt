@@ -1,0 +1,200 @@
+Darth Vader
+Luke Skywalker
+Yoda
+Harry Potter
+Hermione Granger
+Voldemort
+Frodo Bolsón
+Gandalf
+Gollum
+Batman
+Superman
+Spider-Man
+Iron Man
+Capitán América
+Wonder Woman
+El Joker
+Lobezno
+Hulk
+Thor
+Mickey Mouse
+Pato Donald
+Goofy
+Homer Simpson
+Bart Simpson
+Bob Esponja
+Bugs Bunny
+Pato Lucas
+Scooby-Doo
+Tom (Tom y Jerry)
+Jerry (Tom y Jerry)
+Pedro Picapiedra
+Snoopy
+Garfield
+Mafalda
+Goku
+Vegeta
+Naruto
+Monkey D. Luffy
+Pikachu
+Ash Ketchum
+Sailor Moon
+Totoro
+Mario
+Luigi
+Bowser
+Link
+Princesa Zelda
+Donkey Kong
+Sonic el Erizo
+Lara Croft
+Kratos
+Master Chief
+Pac-Man
+Ryu
+Solid Snake
+Sherlock Holmes
+Drácula
+Frankenstein
+Tarzán
+El Zorro
+Robin Hood
+Rey Arturo
+Merlín
+Don Quijote
+Sancho Panza
+Peter Pan
+Alicia en el País de las Maravillas
+Pinocho
+Cenicienta
+Blancanieves
+Indiana Jones
+James Bond
+Jack Sparrow
+Terminator
+Rocky Balboa
+John Rambo
+Marty McFly
+Doc Brown
+E.T. el Extraterrestre
+Spock
+Capitán Kirk
+Walter White
+Jon Nieve
+Daenerys Targaryen
+Once (Eleven)
+El Mandaloriano
+Grogu (Baby Yoda)
+Shrek
+Asno
+Woody
+Buzz Lightyear
+Simba
+Genio de Aladdín
+Tintín
+Astérix
+Obélix
+Popeye
+La Pantera Rosa
+Winnie the Pooh
+Godzilla
+Han Solo (Star Wars)
+Princesa Leia (Star Wars)
+Chewbacca (Star Wars)
+R2-D2 (Star Wars)
+Obi-Wan Kenobi (Star Wars)
+Aragorn (El Señor de los Anillos)
+Legolas (El Señor de los Anillos)
+Gimli (El Señor de los Anillos)
+Sauron (El Señor de los Anillos)
+Bilbo Bolsón (El Señor de los Anillos)
+Albus Dumbledore (Harry Potter)
+Severus Snape (Harry Potter)
+Ron Weasley (Harry Potter)
+Draco Malfoy (Harry Potter)
+Sirius Black (Harry Potter)
+Neo (The Matrix)
+Trinity (The Matrix)
+Morfeo (The Matrix)
+Agente Smith (The Matrix)
+Ellen Ripley (Alien)
+Predator (Depredador)
+Jason Voorhees (Viernes 13)
+Freddy Krueger (Pesadilla en Elm Street)
+Michael Myers (Halloween)
+Pennywise (It)
+John Wick (John Wick)
+Ethan Hunt (Misión Imposible)
+Katniss Everdeen (Los Juegos del Hambre)
+Peeta Mellark (Los Juegos del Hambre)
+Paul Atreides (Dune)
+Geralt de Rivia (The Witcher)
+Ellie (The Last of Us)
+Joel (The Last of Us)
+Arthur Morgan (Red Dead Redemption 2)
+Nathan Drake (Uncharted)
+Cloud Strife (Final Fantasy VII)
+Sephiroth (Final Fantasy VII)
+Leon S. Kennedy (Resident Evil)
+Jill Valentine (Resident Evil)
+Albert Wesker (Resident Evil)
+Gordon Freeman (Half-Life)
+GLaDOS (Portal)
+Samus Aran (Metroid)
+Kirby (Kirby)
+Mega Man (Mega Man)
+Scorpion (Mortal Kombat)
+Sub-Zero (Mortal Kombat)
+Chun-Li (Street Fighter)
+Aloy (Horizon)
+Doomguy (Doom)
+Rick Sanchez (Rick y Morty)
+Morty Smith (Rick y Morty)
+Sheldon Cooper (The Big Bang Theory)
+Michael Scott (The Office)
+Dwight Schrute (The Office)
+Barney Stinson (Cómo conocí a vuestra madre)
+Joey Tribbiani (Friends)
+Chandler Bing (Friends)
+Rachel Green (Friends)
+Monica Geller (Friends)
+Tony Soprano (Los Soprano)
+Jesse Pinkman (Breaking Bad)
+Saul Goodman (Breaking Bad)
+Tyrion Lannister (Juego de Tronos)
+Arya Stark (Juego de Tronos)
+Cersei Lannister (Juego de Tronos)
+Jaime Lannister (Juego de Tronos)
+Fox Mulder (Expediente X)
+Dana Scully (Expediente X)
+Dexter Morgan (Dexter)
+Thomas Shelby (Peaky Blinders)
+Don Draper (Mad Men)
+Gregory House (House M.D.)
+Will Smith (El Príncipe de Bel-Air)
+Peter Griffin (Padre de Familia)
+Eric Cartman (South Park)
+Flash (DC Comics)
+Aquaman (DC Comics)
+Linterna Verde (DC Comics)
+Cyborg (DC Comics)
+Nightwing (DC Comics)
+Lex Luthor (DC Comics)
+Harley Quinn (DC Comics)
+Hiedra Venenosa (DC Comics)
+Viuda Negra (Marvel)
+Ojo de Halcón (Marvel)
+Doctor Strange (Marvel)
+Black Panther (Marvel)
+Ant-Man (Marvel)
+Bruja Escarlata (Marvel)
+Visión (Marvel)
+Thanos (Marvel)
+Loki (Marvel)
+Deadpool (Marvel)
+Magneto (Marvel)
+Profesor X (Marvel)
+Mística (Marvel)
+Daredevil (Marvel)
+Punisher (Marvel)
+Miles Morales (Marvel)
