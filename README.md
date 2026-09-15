@@ -40,12 +40,12 @@ XiaoImpostor es totalmente personalizable. Puedes crear todas las categorías qu
 1. Ve a la carpeta donde está instalado el bot.
 2. Crea un archivo de texto (`.txt`), por ejemplo: `videojuegos.txt`.
 3. Escribe una palabra o frase por línea. No pongas comas ni comillas. Ejemplo:
-'''
+
        Super Mario
        The Legend of Zelda
        Minecraft
-'''
-4. ¡Guarda el archivo! La próxima vez que uses `/room set_list` en Discord, el bot leerá automáticamente tu nuevo archivo y te dejará seleccionarlo.
+
+5. ¡Guarda el archivo! La próxima vez que uses `/room set_list` en Discord, el bot leerá automáticamente tu nuevo archivo y te dejará seleccionarlo.
 
 ---
 
