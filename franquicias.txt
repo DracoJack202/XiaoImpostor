@@ -1,0 +1,400 @@
+Star Wars
+Harry Potter
+Marvel
+DC Comics
+El Señor de los Anillos
+James Bond
+Fast & Furious
+Jurassic Park
+Indiana Jones
+Matrix
+Piratas del Caribe
+Terminator
+Alien
+Predator
+Los Juegos del Hambre
+Crepúsculo
+Misión Imposible
+Rocky
+Rambo
+Transformers
+Avatar
+Toy Story
+Shrek
+Gru, mi villano favorito
+Ice Age
+Godzilla
+King Kong
+Mad Max
+Los Cazafantasmas
+Regreso al Futuro
+Men in Black
+El Planeta de los Simios
+Jungla de Cristal
+Arma Letal
+Star Trek
+John Wick
+Saw
+El Conjuro
+Scream
+Pesadilla en Elm Street
+Super Mario
+The Legend of Zelda
+Pokémon
+Final Fantasy
+Call of Duty
+Grand Theft Auto
+Minecraft
+Assassin's Creed
+Resident Evil
+Tomb Raider
+Halo
+Gears of War
+God of War
+Uncharted
+The Last of Us
+Sonic the Hedgehog
+Crash Bandicoot
+Donkey Kong
+Street Fighter
+Mortal Kombat
+Tekken
+Super Smash Bros
+World of Warcraft
+League of Legends
+Overwatch
+Counter-Strike
+Half-Life
+Portal
+Fallout
+The Elder Scrolls
+Mass Effect
+The Witcher
+Cyberpunk
+Metal Gear Solid
+Silent Hill
+Castlevania
+Metroid
+Mega Man
+Kirby
+Animal Crossing
+Los Sims
+Need for Speed
+Gran Turismo
+FIFA
+Tetris
+Pac-Man
+Doom
+BioShock
+Borderlands
+Diablo
+StarCraft
+Red Dead Redemption
+Dark Souls
+Persona
+Kingdom Hearts
+Yakuza
+Monster Hunter
+Devil May Cry
+Five Nights at Freddy's
+Genshin Impact
+Dragon Ball
+Naruto
+One Piece
+Bleach
+My Hero Academia
+Demon Slayer
+Jujutsu Kaisen
+Attack on Titan
+Fullmetal Alchemist
+Hunter x Hunter
+JoJo's Bizarre Adventure
+One Punch Man
+Chainsaw Man
+Haikyuu!!
+Fairy Tail
+Yu-Gi-Oh!
+Digimon
+Sailor Moon
+Neon Genesis Evangelion
+Sword Art Online
+Tokyo Ghoul
+Gintama
+Death Note
+Steins;Gate
+Cowboy Bebop
+Rurouni Kenshin
+Inuyasha
+Black Clover
+Dr. Stone
+The Promised Neverland
+Vinland Saga
+Kuroko no Basket
+Code Geass
+Spy x Family
+Detective Conan
+Doraemon
+Crayon Shin-chan
+Gundam
+Fate/Stay Night
+Bakugan
+Beyblade
+Astro Boy
+Saint Seiya
+Captain Tsubasa
+Slam Dunk
+Berserk
+Ranma 1/2
+Yu Yu Hakusho
+Mob Psycho 100
+Tokyo Revengers
+Juego de Tronos
+Breaking Bad
+Los Soprano
+Stranger Things
+The Walking Dead
+The Office
+Friends
+Los Simpson
+South Park
+Padre de Familia
+Rick y Morty
+Bob Esponja
+Looney Tunes
+Mickey Mouse
+Scooby-Doo
+Tom y Jerry
+Peanuts
+Garfield
+Tortugas Ninja
+Power Rangers
+Doctor Who
+Sherlock Holmes
+Drácula
+Frankenstein
+Percy Jackson
+Las Crónicas de Narnia
+Dune
+Peaky Blinders
+Black Mirror
+The Crown
+The Boys
+Invencible
+Astérix y Obélix
+Tintín
+Los Pitufos
+Los Increíbles
+Buscando a Nemo
+Frozen
+El Rey León
+Aladdín
+La Sirenita
+La Bella y la Bestia
+Mulan
+Blancanieves
+Cenicienta
+Tarzán
+El Libro de la Selva
+Alicia en el País de las Maravillas
+Peter Pan
+Pocahontas
+Fortnite
+Apex Legends
+Valorant
+Dota
+Rocket League
+Rainbow Six
+Splatoon
+Pikmin
+Fire Emblem
+Xenoblade Chronicles
+Bayonetta
+NieR
+Dragon Quest
+Chrono Trigger
+Star Fox
+F-Zero
+EarthBound
+Hollow Knight
+Undertale
+Stardew Valley
+Terraria
+Among Us
+Fall Guys
+PUBG
+Roblox
+Destiny
+Warframe
+Dead Space
+Battlefield
+Titanfall
+Dishonored
+Alan Wake
+Max Payne
+Splinter Cell
+Ghost Recon
+Just Dance
+Rayman
+Banjo-Kazooie
+Age of Empires
+Civilization
+XCOM
+Total War
+Cities: Skylines
+RollerCoaster Tycoon
+Life is Strange
+Danganronpa
+Phoenix Wright: Ace Attorney
+Professor Layton
+Guilty Gear
+The King of Fighters
+Kaguya-sama: Love is War
+Re:Zero
+KonoSuba
+Overlord
+Mushoku Tensei
+No Game No Life
+The Rising of the Shield Hero
+That Time I Got Reincarnated as a Slime
+Log Horizon
+Tengen Toppa Gurren Lagann
+Kill la Kill
+Akame ga Kill!
+Parasyte
+Erased (Boku dake ga Inai Machi)
+Your Lie in April
+Clannad
+Toradora!
+Anohana
+Violet Evergarden
+Angel Beats!
+Nichijou
+K-On!
+Lucky Star
+The Melancholy of Haruhi Suzumiya
+Monogatari Series
+Puella Magi Madoka Magica
+Cardcaptor Sakura
+Fruits Basket
+Ouran High School Host Club
+Nana
+Psycho-Pass
+Ghost in the Shell
+Akira
+Hellsing
+Black Lagoon
+Elfen Lied
+Mirai Nikki (Future Diary)
+Soul Eater
+D.Gray-man
+Blue Exorcist
+Noragami
+The Seven Deadly Sins
+Food Wars! (Shokugeki no Soma)
+Assassination Classroom
+Kakegurui
+Beastars
+Trigun
+Samurai Champloo
+The Quintessential Quintuplets
+High School DxD
+Hollow Knight
+Stardew Valley
+Undertale
+Hades
+Celeste
+Cuphead
+Dead Cells
+The Binding of Isaac
+Terraria
+Among Us
+Slay the Spire
+Spelunky
+Hotline Miami
+Shovel Knight
+Super Meat Boy
+Limbo
+Inside
+Braid
+Fez
+Bastion
+Transistor
+Outer Wilds
+Disco Elysium
+Return of the Obra Dinn
+Katana ZERO
+Enter the Gungeon
+Risk of Rain 2
+Subnautica
+Don't Starve
+RimWorld
+Factorio
+Valheim
+Phasmophobia
+Lethal Company
+Vampire Survivors
+Inscryption
+Papers, Please
+Slime Rancher
+Dave the Diver
+Dredge
+Cult of the Lamb
+Tunic
+Death's Door
+Neon White
+Stray
+Sifu
+Firewatch
+What Remains of Edith Finch
+The Stanley Parable
+Journey
+Gris
+A Short Hike
+Unpacking
+Spiritfarer
+Night in the Woods
+Oxenfree
+Baba Is You
+The Witness
+Darkest Dungeon
+Into the Breach
+FTL: Faster Than Light
+To the Moon
+Omori
+Doki Doki Literature Club
+Five Nights at Freddy's
+Amnesia: The Dark Descent
+Outlast
+Soma
+Bendy and the Ink Machine
+Poppy Playtime
+VVVVVV
+Cave Story
+Spelunky 2
+Rogue Legacy
+Crypt of the NecroDancer
+Axiom Verge
+Bloodstained: Curse of the Moon
+Blasphemous
+Ori and the Blind Forest
+Ori and the Will of the Wisps
+Guacamelee!
+Salt and Sanctuary
+Ender Lilies
+Skul: The Hero Slayer
+Loop Hero
+Potion Craft
+Dorfromantik
+Mini Motorways
+Mini Metro
+Townscaper
+Overcooked
+Untitled Goose Game
+Gang Beasts
+Human: Fall Flat
+TowerFall Ascension
+Nidhogg
+Duck Game
+Stick Fight: The Game
+Ultimate Chicken Horse
+Keep Talking and Nobody Explodes
